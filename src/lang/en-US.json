@@ -1,0 +1,33 @@
+{
+  "info": "",
+  "work": "Work Experiences",
+  "work1": {
+    "time": "Dec 2019 ~ Now",
+    "title": "Front-End Developer",
+    "subTitle": "Fareastone Telecommunications Co., Ltd.",
+    "describe": "Buliding web content and collaborating with Back-end Developers and visual designers<br/>to build Big Data Marketing Platform, Monitoring System Dashboard, and 5G-Based Product Management.<br/>Tool:<br/>Vue.js, Vuex<br/>Libraries for data visualization e.g., D3.js, Chart.js, Echarts."
+  },
+  "work2": {
+    "time": "Apr 2018 ~ Apr 2019",
+    "title": "Front-End Developer",
+    "subTitle": "Crowdinsight Corporation",
+    "describe": "Buliding web content and reusable componentst<br/>Collaborating with Back-end Developers and visual designers<br/>to build user-friendly website and optimize existing project.<br/>Tool:<br/>Vue.js, Vuex<br/>Libraries for data visualization e.g., D3.js, Chart.js."
+  },
+  "work3": {
+    "time": "Jun 2016 ~ Mar 2018",
+    "title": "Front-End & Designer",
+    "subTitle": "HG Data",
+    "describe": "Buliding web content and creating web visual identity.<br/>Collaborating with Back-end Developers and Data Analysts<br/>to build big data platforms, analytics dashboards and data cleaning tools.<br/>Tool:<br/>JQuery/ Vue.js, Vuex with Google Map Api, Baidu Map Api, etc.<br/>Libraries for data visualization e.g., D3.js, EChart,  Chart.js."
+  },
+  "edu": {
+    "edu": "Education",
+    "time": "Jul 2011 ~ Jul 2015",
+    "title": "B.Des",
+    "subTitle": "National Taiwan University of Arts",
+    "describe": "Major in Multimedia and Animation Arts"
+  },
+  "skill" :{
+    "skill": "Skills",
+    "describe": "Web Front-End, Visual Design, Illustration<br/>HTML5/CSS4/JS, ECMAScript, Vue.js, D3.js, JQuery, Git, Webpack,<br/>SASS/SCSS/Less, Boostrap/Material Design,<br/>Photoshop（ACA）, Illustrator（ACA）, After Effects, Premiere,<br/>Motion Graphics, UI/UX"
+  }
+ }
