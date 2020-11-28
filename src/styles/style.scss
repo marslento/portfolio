@@ -1,0 +1,50 @@
+@import './notosanstc.scss';
+
+html {
+  scroll-behavior: smooth;
+  cursor: none;
+  // overflow-x: hidden;
+}
+a {
+  cursor: none;
+}
+
+div {
+  box-sizing: border-box;
+}
+
+.lang {
+  position: fixed;
+  top: 5vh;
+  right: 15px;
+}
+#nav {
+  position: fixed;
+  bottom: 15vh;
+  right: 15px;
+}
+
+.follower {
+  z-index: 1;
+  pointer-events: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  // transition: 200ms;
+  .dot {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: auto;
+    background: rgba(0, 0, 0, 0.6);
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    // transition: 200ms;
+  }
+}

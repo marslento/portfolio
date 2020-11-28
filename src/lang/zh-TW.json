@@ -1,0 +1,33 @@
+{
+  "info": "",
+  "work": "工作經歷",
+  "work1": {
+    "time": "Dec 2019 ~ Now",
+    "title": "前端工程師",
+    "subTitle": "遠傳電信股份有限公司",
+    "describe": "負責網站前端撰寫、資料視覺化設計、與設計師偕同網站平台 UI / UX 調整。<br/>製作行銷大數據視覺化平台與資料後台監控系統、5G 數位產品後台等<br/>使用 Vue.js、D3.js、 Chart.js 等。"
+  },
+  "work2": {
+    "time": "Apr 2018 ~ Apr 2019",
+    "title": "前端工程師",
+    "subTitle": "治略資訊整合股份有限公司",
+    "describe": "負責網站前端撰寫、可重用圖表 VUE 元件製作、UI / UX 設計。<br/>使用 Vue.js、 Google Map API、 D3.js、 Chart.js、ECharts等。"
+  },
+  "work3": {
+    "time": "Jun 2016 ~ Mar 2018",
+    "title": "前端設計師",
+    "subTitle": "泓廣數據有限公司",
+    "describe": "負責網站前端與視覺設計。<br/>與數據分析師、後端工程師協作呈現大數據資料視覺化平台、<br/>數據後台系統與內部地圖數據資料清整工具等。<br/>開發上使用 JQuery / Vue.js，<br/>串接 Google Map ／ Baidu Map API，<br/>搭配 D3.js、 EChart、 Chart.js 等圖表視覺化工具與整體平台視覺設計。"
+  },
+  "edu": {
+    "edu": "教育",
+    "time": "Jul 2011 ~ Jul 2015",
+    "title": "多媒體動畫藝術學系 學士",
+    "subTitle": "國立臺灣藝術大學",
+    "describe": "主修動畫設計。<br/>製作插畫、 排版、 2 D動畫、 3 D動畫、 互動影片合成、 偶動畫等多媒材呈現。"
+  },
+  "skill" :{
+    "skill": "技能",
+    "describe": "網頁前端撰寫、介面設計、視覺排版、插畫<br/>HTML5/CSS4/JS, ECMAScript,  Vue.js, D3.js, JQuery, Git, Webpack,<br/>SASS/SCSS/Less, Boostrap/Material Design,<br/>Photoshop（ACA）, Illustrator（ACA）, After Effects, Premiere,<br/>Motion Graphics, UI/UX"
+  }
+}
