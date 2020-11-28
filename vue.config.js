@@ -10,6 +10,7 @@ module.exports = {
   runtimeCompiler: true,
   publicPath,
   assetsDir: 'static',
+  outputDir: 'docs',
   configureWebpack: {
     name: name,
     resolve: {
